@@ -1,0 +1,8 @@
+import speech_recognition as sr 
+import webbrowser :- to connect it to webbrowser
+import pyttsx3
+import musiclibrary :- our own library
+import requests :- for news api
+from openai import OpenAI  :- if want to integrate with Chatgpt ₹paid
+pip install gTTS :- better speech than microsoft, from google ₹paid
+pip install pygame :- to play mp3 :- how to play it in python, from chatgpt 
