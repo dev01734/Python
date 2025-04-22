@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 client = OpenAI(
-    api_key = "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"
+    api_key = ""
 )
 completion = client.chat.completions.create(
     model="gpt-4o-mini",
